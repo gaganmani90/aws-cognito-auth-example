@@ -1,0 +1,34 @@
+2023-07-23T18:15:13.907Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"your_aws_cognito_client_id"}
+2023-07-23T18:17:31.838Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:19:11.415Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:23:34.914Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:25:29.178Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:26:07.229Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:27:04.196Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:28:05.794Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:29:02.255Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:29:49.262Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:30:16.485Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:30:47.399Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:31:26.454Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:31:29.022Z [32minfo[39m: auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1233","SecretHash":"gaganmani90@gmail.com489n1cfnpse0bu7ennr0jfhfmjundefined"}
+2023-07-23T18:36:34.635Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:37:32.628Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:37:34.979Z [32minfo[39m: auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1233","SecretHash":"Qr9WQnUBXfMuyGDrzKQfMg=="}
+2023-07-23T18:39:58.866Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:40:01.115Z [32minfo[39m: login auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1233","SecretHash":"Qr9WQnUBXfMuyGDrzKQfMg=="}
+2023-07-23T18:40:01.645Z [31merror[39m: Error during login: Client 489n1cfnpse0bu7ennr0jfhfmj is configured with secret but SECRET_HASH was not received
+2023-07-23T18:43:03.344Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:43:05.372Z [32minfo[39m: login auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1233","SecretHash":"cuuhprps14sq0t1aga5krslkp2v729p84ossckhevto4cngsjoc"}
+2023-07-23T18:43:54.767Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"489n1cfnpse0bu7ennr0jfhfmj"}
+2023-07-23T18:43:58.660Z [32minfo[39m: login auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1233","SecretHash":"Qr9WQnUBXfMuyGDrzKQfMg=="}
+2023-07-23T18:43:59.208Z [31merror[39m: Error during login: Client 489n1cfnpse0bu7ennr0jfhfmj is configured with secret but SECRET_HASH was not received
+2023-07-23T18:49:13.248Z [32minfo[39m: pool data: +{"UserPoolId":"us-east-1_W2vFGtehc","ClientId":"4vc2063us0j0kllnlf354ogg2p"}
+2023-07-23T18:49:15.252Z [32minfo[39m: login auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1233","SecretHash":"1F5OBmlBR0L5+9iTJih1JA=="}
+2023-07-23T18:49:16.332Z [31merror[39m: Error during login: Incorrect username or password.
+2023-07-23T18:49:26.711Z [32minfo[39m: login auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge123","SecretHash":"1F5OBmlBR0L5+9iTJih1JA=="}
+2023-07-23T18:49:27.824Z [31merror[39m: Error during login: Incorrect username or password.
+2023-07-23T18:49:33.511Z [32minfo[39m: login auth params: {"Username":"gaganmani90@gmail.com","Password":"Sharpedge1@#","SecretHash":"1F5OBmlBR0L5+9iTJih1JA=="}
+2023-07-23T18:49:34.683Z [31merror[39m: Error during login: callback.newPasswordRequired is not a function
+2023-07-23T18:52:04.845Z [32minfo[39m: login auth params: {"Username":"gaganmani","Password":"Batman1@#","SecretHash":"um3nQkl2gQ+mBTU58QiwoA=="}
+2023-07-23T18:52:05.992Z [31merror[39m: Error during login: callback.newPasswordRequired is not a function
