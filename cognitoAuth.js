@@ -18,6 +18,7 @@ function registerUser(email, password, callback) {
     const attributeList = [
         new AmazonCognitoIdentity.CognitoUserAttribute({ Name: 'email', Value: email })
     ];
+    logger.info(`Register user: attributeList ${JSON.stringify(attributeList)}`)
 
     userPool.signUp(email, password, attributeList, null, (err, result) => {
         if (err) {
@@ -25,7 +26,7 @@ function registerUser(email, password, callback) {
             return callback(err);
         }
         const cognitoUser = result.user;
-        console.log('User registered:', cognitoUser.getUsername());
+        logger.info('User registered:', cognitoUser.getUsername());
         callback(null, cognitoUser.getUsername());
     });
 }
@@ -65,7 +66,7 @@ function loginUser(email, password, callback) {
         onFailure: (err) => {
             logger.error('Error during login:', err);
             callback(err);
-        }
+        },
     });
 }
 
