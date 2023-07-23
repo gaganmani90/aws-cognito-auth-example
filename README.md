@@ -6,5 +6,21 @@ You will learn the following:
 3. Use JWT token for auth
 
 # How to run
+```shell
+node app.js
+```
 
 ## Pre-requisite
+
+# APIs
+
+### Login response
+```shell
+{
+    "message": "Login successful",
+    "accessToken": "eyJraWQiOiJnYWJTdFFPYU40NVVjWGNHVnMxWkI5R1JFckpWZCtybDZjSDl3eDg0d2ZNPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1NGQ4ZDRhOC0xMDIxLTcwN2UtMmY4OC1jM2ExYjg5OGE4ZGQiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtZWFzdC0xLmFtYXpvbmF3cy5jb21cL3VzLWVhc3QtMV9ZOEw5eUR5MXYiLCJjbGllbnRfaWQiOiIzcWliMWllbHJvbWxnZzEwbm9hdGxjYmI2YyIsIm9yaWdpbl9qdGkiOiI4NzE4ZTE3Yy1kNWY5LTQ4NTYtYTIxYS04MTRiM2IzMGMzNzIiLCJldmVudF9pZCI6IjM1M2Y0NTBjLWI3OTQtNDRkZS05Y2UzLTg5Yzk4ZmUyY2UzYyIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE2OTAxNDIzMzAsImV4cCI6MTY5MDE0NTkzMCwiaWF0IjoxNjkwMTQyMzMwLCJqdGkiOiJiNTdlMTgzZS05ZGUxLTRhNjItOTM4ZS1lODM4N2U4ZjYyMTciLCJ1c2VybmFtZSI6IjU0ZDhkNGE4LTEwMjEtNzA3ZS0yZjg4LWMzYTFiODk4YThkZCJ9.QEwaWOKp8oHmoJagw5grW9I9u3SdltdtZBFne4AnxtOssBKPnOsfGTuDSp9zT2Sy9py-veqcLvVZg6N4JwM6r_m2Mp2a_8G6i8Y-weLyjwuK3KGAX_GloD9EmaciOEHPwaH_7caRGdv_NaZxx3k_7N3B_3rBAhcamkgV-kGGPE9V8IkVEYLL-4yq7_MNki2SoXZtG9WAF-jyrTs97WzfWZ-kkQ0OMcEnVkCaej6hyaUF5xFiV5ccxwds852PcT6h8jf7DhFxn3qoGa9unyVGuGh795PEIVcpZWBrqDG5E0SblwZ1ErgSyIvd7-q6P9Kc7-qWXP_9mXJ2tMRV0o3d7A"
+}
+```
+
+# References
+* API documentation: https://documenter.getpostman.com/view/6834843/2s946maA65
